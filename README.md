@@ -1,3 +1,4 @@
+# ExtractSilences
 # Silence Detector
 
 A desktop application for detecting and labeling silence segments in MP4 videos.
